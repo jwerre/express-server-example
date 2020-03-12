@@ -20,3 +20,7 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 - [Node.js version 10](https://nodejs.org/docs/latest-v10.x/api/index.html)
 - [Node Package Manager](https://www.npmjs.com/)
 - [Express.js](https://expressjs.com/)
+- [Pug](https://github.com/pugjs/pug)
+- [Stylus](https://github.com/stylus/stylus)
+- [Cookie Parser](https://github.com/expressjs/cookie-parser)
+- [Morgan](https://github.com/expressjs/morgan)
